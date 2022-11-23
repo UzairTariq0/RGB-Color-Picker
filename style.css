@@ -2,7 +2,7 @@ body {
     background-color: #000000;
 }
 
-.container {
+.box {
     background-color: rgb(231, 223, 223);
     position: absolute;
     transform: translate(-50%, -50%);
